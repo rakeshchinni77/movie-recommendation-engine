@@ -1,0 +1,12 @@
+{
+  "user_based_cf": {
+    "rmse": 1.0194,
+    "precision_at_10": 0.5847,
+    "ndcg_at_10": 0.8316
+  },
+  "svd": {
+    "rmse": 0.9352,
+    "precision_at_10": 0.5837,
+    "ndcg_at_10": 0.8289
+  }
+}
